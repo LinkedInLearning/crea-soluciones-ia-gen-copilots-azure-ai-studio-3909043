@@ -1,0 +1,5 @@
+{"query": "¿Quién es Rodrigo Diaz Concha?", "ground_truth": "Rodrigo Diaz Concha es el dueño de Gianni y Nina."}
+{"query": "¿Cuál es la especie de Gianni?", "ground_truth": "Gianni es un perro."}
+{"query": "¿Qué procedimiento reciente tuvo Nina?", "ground_truth": "Nina tuvo una vacunación en su última visita."}
+{"query": "¿Cuál es el peso actual de Gianni?", "ground_truth": "El peso actual de Gianni es 12.5 kg."}
+{"query": "¿De qué color es Nina?", "ground_truth": "Nina es de color tricolor."}

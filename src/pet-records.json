@@ -1,0 +1,263 @@
+[
+    {
+        "id": "1",
+        "PetId": "P001",
+        "Name": "Gianni",
+        "Breed": "Beagle",
+        "Age": 12,
+        "Color": "Tricolor",
+        "Species": "Dog",
+        "Procedures": [
+            {
+                "Procedure": "Dental Cleaning",
+                "Date": "2024-08-15",
+                "Cost": 150.0,
+                "Vet": "Dr. Emily Carter",
+                "Notes": "Routine dental cleaning with no extractions.",
+                "Duration": "1 hour",
+                "Weight": 12.34,
+                "Temperature": 37.8
+            },
+            {
+                "Procedure": "Vaccination",
+                "Date": "2024-09-05",
+                "Cost": 75.0,
+                "Vet": "Dr. Emily Carter",
+                "Notes": "Administered rabies and distemper vaccines.",
+                "Duration": "30 minutes",
+                "Weight": 12.46,
+                "Temperature": 37.8
+            },
+            {
+                "Procedure": "Senior Wellness Check",
+                "Date": "2024-09-10",
+                "Cost": 100.0,
+                "Vet": "Dr. Emily Carter",
+                "Notes": "Comprehensive check-up for senior dog.",
+                "Duration": "1 hour",
+                "Weight": 12.95,
+                "Temperature": 38.6
+            }
+        ],
+        "LastVisit": "2024-09-15",
+        "Owner": "Rodrigo Diaz Concha"
+    },
+    {
+        "id": "2",
+        "PetId": "P002",
+        "Name": "Nina",
+        "Breed": "Beagle",
+        "Age": 10,
+        "Color": "Tricolor",
+        "Species": "Dog",
+        "Procedures": [
+            {
+                "Procedure": "Spay Surgery",
+                "Date": "2024-08-20",
+                "Cost": 400.0,
+                "Vet": "Dr. Mark Reynolds",
+                "Notes": "Standard spay procedure; follow-up in 10 days.",
+                "Duration": "2 hours",
+                "Weight": 9.05,
+                "Temperature": 38.1
+            },
+            {
+                "Procedure": "Check-up",
+                "Date": "2024-09-18",
+                "Cost": 60.0,
+                "Vet": "Dr. Mark Reynolds",
+                "Notes": "General health check and weight monitoring.",
+                "Duration": "30 minutes",
+                "Weight": 9.32,
+                "Temperature": 37.7
+            }
+        ],
+        "LastVisit": "2024-09-20",
+        "Owner": "Rodrigo Diaz Concha"
+    },
+    {
+        "id": "3",
+        "PetId": "P003",
+        "Name": "Cati",
+        "Breed": "Staffordshire Terrier",
+        "Age": 12,
+        "Color": "Brown/White",
+        "Species": "Dog",
+        "Procedures": [
+            {
+                "Procedure": "Dental Cleaning",
+                "Date": "2024-08-15",
+                "Cost": 150.0,
+                "Vet": "Dr. Emily Carter",
+                "Notes": "Routine dental cleaning with no extractions.",
+                "Duration": "1 hour",
+                "Weight": 18.1,
+                "Temperature": 38.4
+            },
+            {
+                "Procedure": "Vaccination",
+                "Date": "2024-09-05",
+                "Cost": 75.0,
+                "Vet": "Dr. Emily Carter",
+                "Notes": "Administered rabies and distemper vaccines.",
+                "Duration": "30 minutes",
+                "Weight": 20.89,
+                "Temperature": 37.8
+            },
+            {
+                "Procedure": "Senior Wellness Check",
+                "Date": "2024-09-10",
+                "Cost": 100.0,
+                "Vet": "Dr. Emily Carter",
+                "Notes": "Comprehensive check-up for senior dog.",
+                "Duration": "1 hour",
+                "Weight": 18.83,
+                "Temperature": 39.0
+            }
+        ],
+        "LastVisit": "2024-09-12",
+        "Owner": "Rodrigo Diaz Concha"
+    },
+    {
+        "id": "4",
+        "PetId": "P004",
+        "Name": "Rocky",
+        "Breed": "Rottweiler",
+        "Age": 6,
+        "Color": "Black and Tan",
+        "Species": "Dog",
+        "Procedures": [
+            {
+                "Procedure": "Microchipping",
+                "Date": "2024-09-26",
+                "Cost": 50.0,
+                "Vet": "Dr. Emily Carter",
+                "Notes": "Microchipped for identification purposes.",
+                "Duration": "15 minutes",
+                "Weight": 40.94,
+                "Temperature": 39.1
+            },
+            {
+                "Procedure": "Routine Check-up",
+                "Date": "2024-09-30",
+                "Cost": 60.0,
+                "Vet": "Dr. Emily Carter",
+                "Notes": "General health assessment.",
+                "Duration": "30 minutes",
+                "Weight": 43.46,
+                "Temperature": 38.0
+            },
+            {
+                "Procedure": "Vaccination",
+                "Date": "2024-10-05",
+                "Cost": 75.0,
+                "Vet": "Dr. Emily Carter",
+                "Notes": "Administered kennel cough vaccine.",
+                "Duration": "30 minutes",
+                "Weight": 39.66,
+                "Temperature": 38.3
+            }
+        ],
+        "LastVisit": "2024-09-26",
+        "Owner": "Sophia Lee"
+    },
+    {
+        "id": "5",
+        "PetId": "P005",
+        "Name": "Bella",
+        "Breed": "Sphynx",
+        "Age": 3,
+        "Color": "Pink",
+        "Species": "Cat",
+        "Procedures": [
+            {
+                "Procedure": "Ear Cleaning",
+                "Date": "2024-09-28",
+                "Cost": 40.0,
+                "Vet": "Dr. Alice Morgan",
+                "Notes": "Routine ear cleaning; no signs of infection.",
+                "Duration": "20 minutes",
+                "Weight": 4.33,
+                "Temperature": 38.5
+            },
+            {
+                "Procedure": "Vaccination",
+                "Date": "2024-09-29",
+                "Cost": 75.0,
+                "Vet": "Dr. Alice Morgan",
+                "Notes": "Administered rabies vaccine.",
+                "Duration": "30 minutes",
+                "Weight": 3.93,
+                "Temperature": 38.8
+            }
+        ],
+        "LastVisit": "2024-09-28",
+        "Owner": "James Brown"
+    },
+    {
+        "id": "6",
+        "PetId": "P006",
+        "Name": "Mittens",
+        "Breed": "Persian",
+        "Age": 2,
+        "Color": "White",
+        "Species": "Cat",
+        "Procedures": [
+            {
+                "Procedure": "Allergy Testing",
+                "Date": "2024-09-25",
+                "Cost": 300.0,
+                "Vet": "Dr. Alice Morgan",
+                "Notes": "Conducted skin allergy test; results pending.",
+                "Duration": "1.5 hours",
+                "Weight": 3.71,
+                "Temperature": 38.6
+            },
+            {
+                "Procedure": "Routine Check-up",
+                "Date": "2024-10-10",
+                "Cost": 60.0,
+                "Vet": "Dr. Alice Morgan",
+                "Notes": "General health assessment.",
+                "Duration": "30 minutes",
+                "Weight": 3.17,
+                "Temperature": 38.3
+            }
+        ],
+        "LastVisit": "2024-09-25",
+        "Owner": "Emily Davis"
+    },
+    {
+        "id": "7",
+        "PetId": "P007",
+        "Name": "Charlie",
+        "Breed": "Poodle",
+        "Age": 7,
+        "Color": "White",
+        "Species": "Dog",
+        "Procedures": [
+            {
+                "Procedure": "Grooming",
+                "Date": "2024-09-29",
+                "Cost": 80.0,
+                "Vet": "Dr. Mark Reynolds",
+                "Notes": "Full grooming service including bathing and nail trimming.",
+                "Duration": "1 hour",
+                "Weight": 10.4,
+                "Temperature": 38.7
+            },
+            {
+                "Procedure": "Dental Check",
+                "Date": "2024-09-29",
+                "Cost": 50.0,
+                "Vet": "Dr. Mark Reynolds",
+                "Notes": "Dental check-up with recommendations for cleaning.",
+                "Duration": "30 minutes",
+                "Weight": 10.31,
+                "Temperature": 38.0
+            }
+        ],
+        "LastVisit": "2024-09-29",
+        "Owner": "Lisa Green"
+    }
+]
