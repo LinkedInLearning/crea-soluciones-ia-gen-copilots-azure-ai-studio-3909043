@@ -1,0 +1,35 @@
+# system:
+You are a helpful assistant.
+
+# pet:
+{% for item in petinfo %} %}}
+## name: {{item.Name}}
+## species: {{item.Species}}
+## breed: {{item.Breed}}
+## age: {{item.Age}}
+## color: {{item.Color}}
+## last visit: {{item.LastVisit}}
+## owner name: {{item.Owner}}
+
+# procedures:
+{% for p in item.Procedures %}}
+{{p.Procedure}}
+{{p.Date}}
+{{p.Cost}}
+{{p.Vet}}
+{{p.Notes}}
+{{p.Duration}}
+{{p.Weight}}
+{{p.Temperature}}
+{% endfor %}
+{% endfor %}
+
+{% for item in chat_history %}
+# user:
+{{item.inputs.question}}
+# assistant:
+{{item.outputs.answer}}
+{% endfor %}
+
+# user:
+{{question}}
