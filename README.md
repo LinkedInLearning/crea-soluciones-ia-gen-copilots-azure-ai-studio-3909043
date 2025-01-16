@@ -1,6 +1,6 @@
-# Nombre final del curso
+# Crea soluciones de IA generativa y Copilots con Azure AI Foundry
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Crea soluciones de IA generativa y Copilots con Azure AI Foundry`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
@@ -26,9 +26,9 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ### Docente
 
-**Nombre del docente**
+**Rodrigo Díaz Concha**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/rodrigo-diaz-concha).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/crea-soluciones-de-ia-generativa-y-copilots-con-azure-ai-foundry
