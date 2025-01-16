@@ -6,7 +6,7 @@ Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El c
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Aprende a crear soluciones innovadoras de inteligencia artificial generativa y copilots con Azure AI Studio. Este curso te guía paso a paso a través de las herramientas clave de Azure AI Studio, desde la configuración de hubs y proyectos hasta la implementación de copilots utilizando «Prompt flow». Dirigido a personas desarrolladoras y arquitectas de software, te brinda una comprensión profunda de cómo aprovechar al máximo esta plataforma para diseñar soluciones eficientes e inteligentes. Desarrolla habilidades prácticas que te permitirán construir aplicaciones de IA que transformen tus proyectos.
 
 ## Instrucciones
 
@@ -31,7 +31,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/crea-soluciones-de-ia-generativa-y-copilots-con-azure-ai-foundry
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D560DAQGZm5Go48GSHg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736842231325?e=2147483647&v=beta&t=og8qC5H6lYjXH5fgWnqqIGvqdpzh_sPpq422iVPwM4k
 
 [1]: # (End of ES-Instruction ###############################################################################################)
